@@ -24,6 +24,9 @@
   <a href="mailto:ravneetkaur@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
   </a>
+    <a href="https://huggingface.co/missravneetkaur">
+    <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&labelColor=FFD21E&color=FF6B35" alt="Hugging Face" />
+  </a>
 </p>
 
 <!-- Profile Views Counter -->
@@ -288,8 +291,8 @@ const ravneet = {
 **🔗 Professional**
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=000000)](https://ravneetkour.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/ravneetkour)
-[![Resume](https://img.shields.io/badge/📄%20Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=4285F4)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/ravneet-kaur-nagi)
+[![Resume](https://img.shields.io/badge/📄%20Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=4285F4)](https://docs.google.com/document/d/1_uvr_6QjeTnYGHVpbvE5QSkZ8AScYYxgbcd_3mTBB0k/edit?usp=sharing)
 
 </td>
 <td align="center">
@@ -379,7 +382,7 @@ const ravneet = {
 <!-- Footer -->
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B9D&background=0D111700&center=true&vCenter=true&width=800&lines=Thanks%20for%20visiting!%20⭐%20Star%20my%20repos%20if%20you%20like%20them;Connect%20with%20me%20and%20let's%20build%20amazing%20things!"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&background=0D111700&center=true&vCenter=true&width=800&lines=Thanks%20for%20visiting%21%20%E2%AD%90%20Star%20my%20repos%20if%20you%20like%20them%3BConnect%20with%20me%20on%20LinkedIn%20and%20let%27s%20collaborate%21"
     alt="Thanks for visiting — Typing SVG"
   />
 </div>
