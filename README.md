@@ -231,12 +231,12 @@ const ravneet = {
 <tr>
 <td width="50%">
 
-### 🌐 [Portfolio Website](https://github.com/ravneetkour/portfolio)
+### 🌐 [Portfolio Website](https://ravneetkour.github.io/)
 **Personal portfolio showcase**
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ravneetkour&repo=portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=c9d1d9&icon_color=C44569)](https://github.com/ravneetkour/portfolio)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ravneetkour&repo=ravneetkour.github.io&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=c9d1d9&icon_color=C44569)](https://github.com/ravneetkour/ravneetkour.github.io)
 
-**Tech Stack**: `React` `CSS3` `JavaScript` `Responsive Design`
+**Tech Stack**: `HTML5` `CSS3` `JavaScript` `Responsive Design`
 
 ✨ Modern and interactive design  
 🎯 Showcase of projects and skills  
@@ -250,7 +250,7 @@ const ravneet = {
 
 [![Task Manager](https://github-readme-stats.vercel.app/api/pin/?username=ravneetkour&repo=task-manager&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=c9d1d9&icon_color=C44569)](https://github.com/ravneetkour/task-manager)
 
-**Tech Stack**: `MERN Stack` `JWT` `MongoDB` `Material-UI`
+**Tech Stack**: `MERN Stack` `Express.js` `MongoDB` `Material-UI`
 
 📝 Complete CRUD operations  
 ⚡ Real-time updates  
@@ -305,8 +305,8 @@ const ravneet = {
 
 **📱 Social**
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/ravneetkour)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/ravneetkour)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/Ravneetkaurnagi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/rvneet_kour_)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0A0A0A)](https://dev.to/ravneetkour)
 
 </td>
