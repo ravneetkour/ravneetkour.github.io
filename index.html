@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ravneet Kaur | Python Developer & AI/ML Specialist</title>
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&display=swap" rel="stylesheet" />
+
+  <!-- Font Awesome Icons -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet" />
+
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: "Fira Code", monospace;
+      background: #0d1117;
+      color: #fff;
+      line-height: 1.6;
+    }
+    header {
+      text-align: center;
+      padding: 3rem 1rem;
+      background: linear-gradient(135deg, #ff6b9d, #c44569);
+    }
+    header h1 { font-size: 2.5rem; }
+    header p { font-size: 1.2rem; margin-top: .5rem; }
+    nav {
+      display: flex;
+      justify-content: center;
+      gap: 1.5rem;
+      padding: 1rem;
+      background: #111827;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+    }
+    nav a {
+      color: #ff6b9d;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    section {
+      padding: 4rem 2rem;
+      max-width: 1000px;
+      margin: auto;
+    }
+    section h2 {
+      color: #ff6b9d;
+      font-size: 2rem;
+      margin-bottom: 1rem;
+      text-align: center;
+    }
+    .about img {
+      width: 220px;
+      border-radius: 50%;
+      margin: 1rem auto;
+      display: block;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem;
+    }
+    .card {
+      background: #1f2937;
+      padding: 1.5rem;
+      border-radius: 12px;
+      transition: transform 0.2s;
+    }
+    .card:hover { transform: translateY(-5px); }
+    .card h3 { color: #c44569; margin-bottom: .5rem; }
+    .skills span {
+      display: inline-block;
+      background: #c44569;
+      color: #fff;
+      padding: .3rem .7rem;
+      margin: .3rem;
+      border-radius: 6px;
+      font-size: 0.9rem;
+    }
+    footer {
+      background: #111827;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+    footer a {
+      color: #ff6b9d;
+      margin: 0 .5rem;
+      font-size: 1.3rem;
+    }
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <h1>👋 Hi, I'm Ravneet Kaur</h1>
+    <p>Python Developer | AI/ML Specialist | Data Enthusiast</p>
+  </header>
+
+  <!-- Navbar -->
+  <nav>
+    <a href="#about">About</a>
+    <a href="#skills">Skills</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <!-- About Section -->
+  <section id="about" class="about">
+    <h2>About Me</h2>
+    <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" alt="Ravneet Kaur">
+    <p>
+      I'm a <strong>Software Developer & Tech Innovator</strong> based in Chandigarh, India.  
+      I specialize in <b>Python Development, Machine Learning, and Data Science</b>.  
+      My passion lies in transforming data into insights and building intelligent systems.  
+      Fun fact: I debug code better with chai! ☕
+    </p>
+  </section>
+
+  <!-- Skills Section -->
+  <section id="skills" class="skills">
+    <h2>Tech Stack</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>AI/ML</h3>
+        <span>Python</span><span>TensorFlow</span><span>PyTorch</span><span>Scikit-learn</span>
+      </div>
+      <div class="card">
+        <h3>Data Science</h3>
+        <span>Pandas</span><span>NumPy</span><span>Matplotlib</span><span>Seaborn</span><span>Tableau</span>
+      </div>
+      <div class="card">
+        <h3>Web Dev</h3>
+        <span>Flask</span><span>Django</span><span>FastAPI</span><span>HTML</span><span>CSS</span><span>JS</span>
+      </div>
+      <div class="card">
+        <h3>Cloud & Tools</h3>
+        <span>AWS</span><span>Docker</span><span>GitHub</span><span>Google Cloud</span><span>VS Code</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Projects Section -->
+  <section id="projects">
+    <h2>Featured Projects</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>🌐 Portfolio Website</h3>
+        <p>Personal portfolio showcasing my projects and skills.</p>
+        <a href="https://github.com/ravneetkour/portfolio" target="_blank">🔗 View Repo</a>
+      </div>
+      <div class="card">
+        <h3>💻 Task Management App</h3>
+        <p>Full-stack productivity app with secure authentication.</p>
+        <a href="https://github.com/ravneetkour/task-manager" target="_blank">🔗 View Repo</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p align="center">💬 Let’s collaborate! Reach me via:</p>
+    <p align="center">
+      <a href="mailto:ravneetkaur62429@gmail.com"><i class="fa-solid fa-envelope"></i></a>
+      <a href="https://linkedin.com/in/ravneet-kaur-nagi"><i class="fa-brands fa-linkedin"></i></a>
+      <a href="https://github.com/ravneetkour"><i class="fa-brands fa-github"></i></a>
+      <a href="https://twitter.com/ravneetkour"><i class="fa-brands fa-twitter"></i></a>
+    </p>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>⭐ Built with ❤️ by Ravneet Kaur</p>
+  </footer>
+
+</body>
+</html>
